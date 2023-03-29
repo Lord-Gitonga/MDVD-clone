@@ -1,0 +1,15 @@
+/* *{
+    background-color: #84cba6, #042541, #11b4e0;
+}
+ */
+.bg-custom-primary{
+    background-color: #042541;
+}
+
+.custom-blue{
+    color: #84cba6 !important;
+}
+
+li{
+    list-style: none;
+}
